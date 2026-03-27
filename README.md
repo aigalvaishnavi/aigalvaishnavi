@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Enthusiastic Software Developer with experience in front-end development and operations support, contributing to <br>enterprise level projects in the reinsurance and edtech domains. Skilled in building user friendly interfaces, enhancing system <br>usability, and managing structured data across business workflows. Strong ability to collaborate with cross functional teams, <br>resolve technical issues, and maintain high service quality. Seeking a challenging role where I can leverage my technical <br>expertise and problem solving skills to deliver scalable and impactful software solutions. 
 
@@ -25,3 +26,4 @@ Enthusiastic Software Developer with experience in front-end development and ope
 [![](https://visitcount.itsvg.in/api?id=aigalvaishnavi&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
